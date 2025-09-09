@@ -1,3 +1,3 @@
-# 最优化方法 2025 （Optimization Methods 2025）
+# 人工智能数学基础 2025 
 
 
