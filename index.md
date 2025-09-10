@@ -9,6 +9,7 @@
 - **助教**：助教名单
 - **学期**：2025 秋季
 - **时间**：每周三下午 4–5 点
+
 ---
 ## 课程大纲
 | Lecture | 主题 | 资源 |
@@ -16,6 +17,7 @@
 | 1 | LLM 概览 | [Slides](lectures/lecture1.md) |
 | 2 | Machine Learning 基础 | [Slides](lectures/lecture2.md) |
 | ... | ... | ... |
+
 ---
 
 ## 参考资料
