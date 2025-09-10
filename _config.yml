@@ -6,6 +6,5 @@ highlighter: rouge               # 代码高亮
 # 导航栏配置
 header_pages:
   - index.md
-  - lectures.md
-  - resources.md
+
 
