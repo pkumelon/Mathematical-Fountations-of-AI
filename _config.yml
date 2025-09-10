@@ -1,1 +1,15 @@
+title: "人工智能数学基础 2025"          # 网站标题
+description: "课程简介"       # 简介
+baseurl: ""                      # GitHub Pages 自动处理
+url: "https://yourname.github.io/yourcourse"
+
+theme: minima                    # 先用 Jekyll 自带的 minima 主题
+markdown: kramdown
+highlighter: rouge               # 代码高亮
+
+# 导航栏配置
+header_pages:
+  - index.md
+  - lectures.md
+  - resources.md
 
