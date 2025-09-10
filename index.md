@@ -1,5 +1,5 @@
 
----
+
 # 课程主页：人工智能数学基础 2025
 ---
 
@@ -14,7 +14,9 @@
 | Lecture | 主题 | 资源 |
 |--------:|------|------|
 | 1 | LLM 概览 | [Slides](lectures/lecture1.md) |
+
 | 2 | Machine Learning 基础 | [Slides](lectures/lecture2.md) |
+
 | ... | ... | ... |
 
 ---
