@@ -1,9 +1,4 @@
-title: ""
-description: ""
-theme: "just-the-docs"
+theme: minima
+title: "LLM 课程 2025"
+footer_content: ""
 
-url: "https://yourname.github.io/yourcourse"
-baseurl: ""
-
-# 去掉右下角 open source 链接
-footer_content: ""   
