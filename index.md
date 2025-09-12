@@ -19,6 +19,20 @@
 - **Lecture 3**: ...  
   [Slides](lectures/lecture3.md)
 
+
+<details>
+<summary>Lecture 1: LLM 概览</summary>
+
+- [Slides](lectures/lecture1.md)  
+- 推荐阅读: 《Attention Is All You Need》
+</details>
+
+<details>
+<summary>Lecture 2: Machine Learning 基础</summary>
+
+- [Slides](lectures/lecture2.md)  
+- 推荐阅读: Bishop, *Pattern Recognition and Machine Learning*
+</details>
 ---
 
 ## 参考资料
