@@ -10,31 +10,36 @@
 
 ---
 ## 课程大纲
-- **Lecture 1**: LLM 概览  
-  [Slides](lectures/lecture1.md)
 
-- **Lecture 2**: Machine Learning 基础  
-  [Slides](lectures/lecture2.md)
+### Lecture 1: Introduction to LLM
+Introduction to large language models  
+[Slides1](lectures/lecture1-1.pdf) [Slides2](lectures/lecture1-2.pdf)
 
-- **Lecture 3**: ...  
-  [Slides](lectures/lecture3.md)
+**Reading:**
+- Andrej Karpathy, *State of GPT*
+- Andrej Karpathy, *The busy person’s intro to LLM*
 
-
-<details>
-<summary>Lecture 1: LLM 概览</summary>
-
-- [Slides](lectures/lecture1.md)  
-- 推荐阅读: 《Attention Is All You Need》
-</details>
-
-<details>
-<summary>Lecture 2: Machine Learning 基础</summary>
-
-- [Slides](lectures/lecture2.md)  
-- 推荐阅读: Bishop, *Pattern Recognition and Machine Learning*
-</details>
 ---
 
+### Lecture 2: Machine Learning 基础
+Foundations of machine learning for NLP  
+[Slides](lectures/lecture2.pdf)
+
+**Reading:**
+- Bishop, *Pattern Recognition and Machine Learning*, Chapter 1
+- Goodfellow et al., *Deep Learning*, Chapter 6
+
+---
+
+### Lecture 3: Transformer 架构
+Attention mechanisms and the Transformer  
+[Slides](lectures/lecture3.pdf)
+
+**Reading:**
+- Vaswani et al., *Attention Is All You Need*
+- Lilian Weng, *The Transformer Family*
+
+---
 ## 参考资料
 - Stanford CS224n: NLP with Deep Learning
 - 《Attention Is All You Need》（Vaswani 等人）:contentReference[oaicite:1]{index=1}
