@@ -1,0 +1,40 @@
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  margin: 0 auto;
+  max-width: 900px;
+  line-height: 1.6;
+  padding: 20px;
+  background-color: #fafafa;
+  color: #333;
+}
+
+h1, h2, h3 {
+  color: #003366;
+}
+
+a {
+  color: #0055aa;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.course-block {
+  background: #fff;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0px 2px 6px rgba(0,0,0,0.1);
+}
+
+.course-block h2 {
+  margin-top: 0;
+  color: #222;
+}
+
+.readings {
+  margin-top: 10px;
+  padding-left: 20px;
+}
