@@ -6,12 +6,11 @@ title: "LLM 课程 2025"
 # 课程信息
 
 <div class="course-info" markdown="1">
-- **授课教师**: 张三  
+- **授课教师**: 袁坤，文再文  
 - **助教**: 李四  
 - **学期**: 2025 春季  
-- **上课时间**: 每周三 14:00–16:00  
-- **地点**: 教学楼 A-101  
-- **办公时间**: 每周三 16:00–17:00  
+- **上课时间**: 每周三 9:00–11:50  
+- **地点**: 三层报告厅
 </div>
 
 <hr>
@@ -19,7 +18,7 @@ title: "LLM 课程 2025"
 # 课程大纲
 
 <div class="course-block">
-  <h2>Lecture 1: Introduction to LLM</h2>
+  <h2>Lecture 1: 数值代数基础</h2>
   <p>
     Introduction to large language models  
     [<a href="lectures/lecture1-slides1.pdf">Slides1</a>]  
