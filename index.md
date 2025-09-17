@@ -21,6 +21,7 @@ title: "LLM 课程 2025"
   <h2>Lecture 1: 数值代数基础</h2>
   <p>
     [<a href="lectures/lecture1-slides1.pdf">Slides1</a>]  
+ </p>
 </div>
 
 <div class="course-block">
