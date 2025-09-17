@@ -20,23 +20,12 @@ title: "LLM 课程 2025"
 <div class="course-block">
   <h2>Lecture 1: 数值代数基础</h2>
   <p>
-    Introduction to large language models  
     [<a href="lectures/lecture1-slides1.pdf">Slides1</a>]  
-    [<a href="lectures/lecture1-slides2.pdf">Slides2</a>]
-  </p>
-  <div class="readings">
-    <strong>Reading:</strong>
-    <ul>
-      <li>Andrej Karpathy, <em>State of GPT</em></li>
-      <li>Andrej Karpathy, <em>The busy person’s intro to LLM</em></li>
-    </ul>
-  </div>
 </div>
 
 <div class="course-block">
-  <h2>Lecture 2: Machine Learning 基础</h2>
-  <p>
-    Review of ML foundations  
+  <h2>Lecture 2: 机器学习中的优化问题</h2>
+  <p> 
     [<a href="lectures/lecture2-slides.pdf">Slides</a>]
   </p>
   <div class="readings">
@@ -49,9 +38,8 @@ title: "LLM 课程 2025"
 </div>
 
 <div class="course-block">
-  <h2>Lecture 3: Transformer 架构</h2>
+  <h2>Lecture 3: 优化基础</h2>
   <p>
-    Deep dive into the Transformer model  
     [<a href="lectures/lecture3-slides.pdf">Slides</a>]
   </p>
   <div class="readings">
