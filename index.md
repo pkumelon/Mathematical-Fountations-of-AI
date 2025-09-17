@@ -7,7 +7,7 @@ title: "LLM 课程 2025"
 
 <div class="course-info" markdown="1">
 - **授课教师**: 袁坤，文再文  
-- **助教**: 李四  
+- **助教**: 赵健飞，徐奥，别云龙  
 - **学期**: 2025 春季  
 - **上课时间**: 每周三 9:00–11:50  
 - **地点**: 三层报告厅
@@ -28,13 +28,6 @@ title: "LLM 课程 2025"
   <p> 
     [<a href="lectures/lecture2-slides.pdf">Slides</a>]
   </p>
-  <div class="readings">
-    <strong>Reading:</strong>
-    <ul>
-      <li>Goodfellow et al., <em>Deep Learning</em>, Chapter 1</li>
-      <li>Ng, <em>Machine Learning Yearning</em></li>
-    </ul>
-  </div>
 </div>
 
 <div class="course-block">
@@ -42,13 +35,6 @@ title: "LLM 课程 2025"
   <p>
     [<a href="lectures/lecture3-slides.pdf">Slides</a>]
   </p>
-  <div class="readings">
-    <strong>Reading:</strong>
-    <ul>
-      <li>Vaswani et al., <em>Attention Is All You Need</em></li>
-      <li>Annotated Transformer tutorial</li>
-    </ul>
-  </div>
 </div>
 
 <!-- 你可以继续加 Lecture 4, 5 ... -->
