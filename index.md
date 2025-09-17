@@ -27,14 +27,14 @@ title: "LLM 课程 2025"
 <div class="course-block">
   <h2>Lecture 2: 机器学习中的优化问题</h2>
   <p> 
-    [<a href="lectures/lecture2-slides.pdf">Slides</a>]
+    [<a href="lectures/lecture2-slides1.pdf">Slides</a>]
   </p>
 </div>
 
 <div class="course-block">
   <h2>Lecture 3: 优化基础</h2>
   <p>
-    [<a href="lectures/lecture3-slides.pdf">Slides</a>]
+    [<a href="lectures/lecture3-slides1.pdf">Slides</a>]
   </p>
 </div>
 
