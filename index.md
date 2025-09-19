@@ -22,6 +22,9 @@ title: "LLM 课程 2025"
   <p>
     [<a href="lectures/lecture1-slides1.pdf">Slides1</a>]  
  </p>
+  <p>
+    [<a href="lectures/homework/hw1.pdf">Homework1</a>]  
+ </p>
 </div>
 
 <div class="course-block">
