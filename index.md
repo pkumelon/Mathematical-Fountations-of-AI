@@ -30,6 +30,7 @@ title: "LLM 课程 2025"
 
 <div class="course-block">
   <h2>Lecture 2: 机器学习中的优化问题</h2>
+  主讲教师：文再文
   <p> 
     [<a href="lectures/lecture2-slides1.pdf">Slides</a>]
   </p>
@@ -37,6 +38,7 @@ title: "LLM 课程 2025"
 
 <div class="course-block">
   <h2>Lecture 3: 优化基础</h2>
+  主讲教师：文再文
   <p>
     [<a href="lectures/lecture3-slides1.pdf">Slides</a>]
   </p>
@@ -44,6 +46,7 @@ title: "LLM 课程 2025"
 
 <div class="course-block">
   <h2>Lecture 4: 梯度法及其变形</h2>
+  主讲教师：袁坤
   <p>
     [<a href="lectures/lecture4-slides1.pdf">Slides1</a>]
   </p>
