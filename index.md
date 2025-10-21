@@ -41,4 +41,11 @@ title: "LLM 课程 2025"
   </p>
 </div>
 
+<div class="course-block">
+  <h2>Lecture 4: 梯度法及其变形</h2>
+  <p>
+    [<a href="lectures/lecture4-slides1.pdf">Slides</a>]
+  </p>
+</div>
+
 <!-- 你可以继续加 Lecture 4, 5 ... -->
