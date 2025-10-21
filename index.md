@@ -44,7 +44,14 @@ title: "LLM 课程 2025"
 <div class="course-block">
   <h2>Lecture 4: 梯度法及其变形</h2>
   <p>
-    [<a href="lectures/lecture4-slides1.pdf">Slides</a>]
+    [<a href="lectures/lecture4-slides1.pdf">Slides1</a>]
+  </p>
+
+  <p>
+   梯度下降  [<a href="lectures/03_GD.pdf">Slides2</a>][<a href="lectures/notes_1.pdf">Notes1</a>]
+  </p>
+  <p>
+   前反向传播与导数计算 [<a href="lectures/notes_2.pdf">Notes1</a>]
   </p>
 </div>
 
