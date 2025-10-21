@@ -45,7 +45,7 @@ title: "LLM 课程 2025"
 </div>
 
 <div class="course-block">
-  <h2>Lecture 4: 梯度法及其变形</h2>
+  <h2>Lecture 4: 梯度法与前反向传播</h2>
   主讲教师：袁坤
   <p>
     [<a href="lectures/lecture4-slides1.pdf">Slides1</a>]
