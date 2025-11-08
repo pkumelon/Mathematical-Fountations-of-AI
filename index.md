@@ -58,6 +58,9 @@ title: "LLM 课程 2025"
    前反向传播与导数计算 [<a href="lectures/notes_2.pdf">Notes1</a>]
   </p>
   <p>
+   梯度类算法  [<a href="lectures/lecture4-slides2.pdf">Slides3</a>][<a href="lectures/lecture4-slides3.pdf">Slides4</a>]
+  </p>
+  <p>
     [<a href="lectures/homework/hw2.pdf">Homework2</a>]  
  </p>
 </div>
