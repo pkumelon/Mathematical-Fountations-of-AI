@@ -65,4 +65,14 @@ title: "LLM 课程 2025"
  </p>
 </div>
 
+<div class="course-block">
+  <h2>Lecture 5: 随机梯度法</h2>
+  主讲教师：袁坤
+  <p>
+   随机梯度下降  [<a href="lectures/Notes__AI_Foundations.pdf">Notes1</a>][<a href="lectures/Notes_SGD.pdf">Notes2</a>]
+  </p>
+  <p>
+   Slides [<a href="lectures/Intro1.pdf">Slides1</a>][<a href="lectures/SGD.pdf">Slides2</a>]
+  </p>
+</div>
 <!-- 你可以继续加 Lecture 4, 5 ... -->
