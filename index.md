@@ -74,5 +74,8 @@ title: "LLM 课程 2025"
   <p>
    Slides [<a href="lectures/Intro1.pdf">Slides1</a>][<a href="lectures/SGD.pdf">Slides2</a>]
   </p>
+   <p>
+    [<a href="lectures/homework/hw3.pdf">Homework3</a>]  
+ </p>
 </div>
 <!-- 你可以继续加 Lecture 4, 5 ... -->
