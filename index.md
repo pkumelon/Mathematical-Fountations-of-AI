@@ -78,4 +78,25 @@ title: "LLM 课程 2025"
     [<a href="lectures/homework/hw3.pdf">Homework3</a>]  
  </p>
 </div>
+
+<div class="course-block">
+  <h2>Lecture 6: 自适应梯度法</h2>
+  主讲教师：袁坤
+  <p>
+   加速梯度法  [<a href="lectures/ACC_GD.pdf">Slides1</a>]
+  </p>
+  <p>
+   自适应梯度法 [<a href="lectures/AdaSGD.pdf">Slides1</a>]
+  </p>
+   
+</div>
+
+<div class="course-block">
+  <h2>Lecture 7: 大语言模型基础</h2>
+  主讲教师：袁坤
+  <p>
+    [<a href="lectures/03_langmodel.pdf">Slides1</a>]
+  </p>
+   
+</div>
 <!-- 你可以继续加 Lecture 4, 5 ... -->
