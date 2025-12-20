@@ -101,7 +101,7 @@ title: "LLM 课程 2025"
 </div>
 
 <div class="course-block">
-  <h2>Lecture 7: 大语言模型的高效训练方法/h2>
+  <h2>Lecture 8: 大语言模型的高效训练方法</h2>
   主讲教师：袁坤
   <p>
     混合精度训练[<a href="lectures/mixed_precision_training_FP8.pdf">Slides1</a>] 
