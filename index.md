@@ -107,7 +107,7 @@ title: "LLM 课程 2025"
     混合精度训练[<a href="lectures/mixed_precision_training_FP8.pdf">Slides1</a>] 
   </p>
    <p>
-参数高效微调 [<a href="lectures/Params_Compts_Memory.pdf">Slides1</a>] [<a href="lectures/23_fine_tune.pdf">Slides1</a>] 
+参数高效微调 [<a href="lectures/Params_Compts_Memory.pdf">Slides1</a>] [<a href="lectures/23_fine_tune.pdf">Slides2</a>] 
   </p>
     <p>
 高效推理 [<a href="lectures/24_efficient_inference.pdf">Slides1</a>] 
