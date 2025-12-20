@@ -95,8 +95,23 @@ title: "LLM 课程 2025"
   <h2>Lecture 7: 大语言模型基础</h2>
   主讲教师：袁坤
   <p>
-    [<a href="lectures/03_langmodel.pdf">Slides1</a>]
+    [<a href="lectures/03_langmodel.pdf">Slides1</a>] [<a href="lectures/Bert_and_GPT.pdf">Slides2</a>]
   </p>
    
 </div>
+
+<div class="course-block">
+  <h2>Lecture 7: 大语言模型的高效训练方法/h2>
+  主讲教师：袁坤
+  <p>
+    混合精度训练[<a href="lectures/mixed_precision_training_FP8.pdf">Slides1</a>] 
+  </p>
+   <p>
+参数高效微调 [<a href="lectures/Params_Compts_Memory.pdf">Slides1</a>] [<a href="lectures/23_fine_tune.pdf">Slides1</a>] 
+  </p>
+    <p>
+高效推理 [<a href="lectures/24_efficient_inference.pdf">Slides1</a>] 
+  </p>
+</div>
+
 <!-- 你可以继续加 Lecture 4, 5 ... -->
