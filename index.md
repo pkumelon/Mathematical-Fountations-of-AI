@@ -114,4 +114,17 @@ title: "LLM 课程 2025"
   </p>
 </div>
 
+
+  <div class="course-block">
+  <h2>Lecture 9: 强化学习数学基础</h2>
+  主讲教师：袁坤
+    
+  <p>
+    基础概念[<a href="lectures/ch1_slides.pdf">Slides1</a>] 
+  </p>
+   <p>
+Bellman方程 [<a href="lectures/ch2_bellman_slides.pdf">Slides1</a>]  [<a href="lectures/ch3_bellman_optimality_slides.pdf">Slides2</a>] 
+  </p>
+  以上内容根据西湖大学赵世钰老师《强化学习的数学原理》内容编写
+</div>
 <!-- 你可以继续加 Lecture 4, 5 ... -->
