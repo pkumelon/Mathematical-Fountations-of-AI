@@ -137,7 +137,7 @@ Bellman方程 [<a href="lectures/ch2_bellman_slides.pdf">Slides1</a>]  [<a href=
   以上内容根据西湖大学赵世钰老师《强化学习的数学原理》内容编写
 
   <p>
-    [<a href="lectures/lectures/hw4.pdf">Homework4</a>]  
+    [<a href="lectures/hw4.pdf">Homework4</a>]  
  </p>
  
 </div>
