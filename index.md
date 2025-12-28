@@ -95,9 +95,18 @@ title: "LLM 课程 2025"
   <h2>Lecture 7: 大语言模型基础</h2>
   主讲教师：袁坤
   <p>
-    [<a href="lectures/03_langmodel.pdf">Slides1</a>] [<a href="lectures/Bert_and_GPT.pdf">Slides2</a>]
+   词嵌入、语言模型、RNN、Seq2Seq [<a href="lectures/03_langmodel.pdf">Slides1</a>] 
+  </p>
+  <p>
+   注意力机制与Transformer  [<a href="lectures/04_transformer.pdf">Slides1</a>] 
   </p>
    
+  <p>  
+ BERT、GPT与DeepSeek [<a href="lectures/Bert_and_GPT.pdf">Slides1</a>]
+  </p>
+<p>  
+大模型的参数量、计算量与内存的计算 [<a href="lectures/Params_Compts_Memory.pdf">Slides1</a>]
+  </p>
 </div>
 
 <div class="course-block">
@@ -107,7 +116,7 @@ title: "LLM 课程 2025"
     混合精度训练[<a href="lectures/mixed_precision_training_FP8.pdf">Slides1</a>] 
   </p>
    <p>
-参数高效微调 [<a href="lectures/Params_Compts_Memory.pdf">Slides1</a>] [<a href="lectures/23_fine_tune.pdf">Slides2</a>] 
+参数高效微调  [<a href="lectures/23_fine_tune.pdf">Slides1</a>] 
   </p>
     <p>
 高效推理 [<a href="lectures/24_efficient_inference.pdf">Slides1</a>] 
@@ -126,5 +135,10 @@ title: "LLM 课程 2025"
 Bellman方程 [<a href="lectures/ch2_bellman_slides.pdf">Slides1</a>]  [<a href="lectures/ch3_bellman_optimality_slides.pdf">Slides2</a>] 
   </p>
   以上内容根据西湖大学赵世钰老师《强化学习的数学原理》内容编写
+
+  <p>
+    [<a href="lectures/lectures/hw4.pdf">Homework4</a>]  
+ </p>
+ 
 </div>
 <!-- 你可以继续加 Lecture 4, 5 ... -->
