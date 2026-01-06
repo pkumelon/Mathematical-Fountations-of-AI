@@ -134,6 +134,16 @@ title: "LLM 课程 2025"
    <p>
 Bellman方程 [<a href="lectures/ch2_bellman_slides.pdf">Slides1</a>]  [<a href="lectures/ch3_bellman_optimality_slides.pdf">Slides2</a>] 
   </p>
+
+ <p>
+价值迭代与策略迭代 [<a href="lectures/Ch4_Value_iteration.pdf">Slides1</a>]  
+  </p>
+<p>
+蒙特卡洛方法 [<a href="lectures/monte_carlo_methods.pdf">Slides1</a>]  
+  </p>
+  <p>
+时分法 [<a href="lectures/td_methods_slides.pdf">Slides1</a>]  
+  </p>
   以上内容根据西湖大学赵世钰老师《强化学习的数学原理》内容编写
 
   <p>
