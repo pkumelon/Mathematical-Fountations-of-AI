@@ -157,7 +157,7 @@ Bellman方程 [<a href="lectures/ch2_bellman_slides.pdf">Slides1</a>]  [<a href=
 
 
 <div class="course-block">
-  <h2> 期末复习  <h2> 
+  <h2> 期末复习  </h2>
    <p>
 考试范围  [<a href="lectures/复习.pdf">Slides1</a>] 
   </p>
