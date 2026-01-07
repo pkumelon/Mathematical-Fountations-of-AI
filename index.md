@@ -136,7 +136,7 @@ Bellman方程 [<a href="lectures/ch2_bellman_slides.pdf">Slides1</a>]  [<a href=
   </p>
 
  <p>
-价值迭代与策略迭代 [<a href="lectures/Ch4_Value_iteration.pdf">Slides1</a>]  [<a href="lectures/value_function_methods_slides_v2 .pdf">Slides2</a>]
+价值迭代与策略迭代 [<a href="lectures/Ch4_Value_iteration.pdf">Slides1</a>]  [<a href="lectures/value_function_methods_slides_v2.pdf">Slides2</a>]
   </p>
 <p>
 蒙特卡洛方法 [<a href="lectures/monte_carlo_methods.pdf">Slides1</a>]  
