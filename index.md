@@ -136,13 +136,16 @@ Bellman方程 [<a href="lectures/ch2_bellman_slides.pdf">Slides1</a>]  [<a href=
   </p>
 
  <p>
-价值迭代与策略迭代 [<a href="lectures/Ch4_Value_iteration.pdf">Slides1</a>]  
+价值迭代与策略迭代 [<a href="lectures/Ch4_Value_iteration.pdf">Slides1</a>]  [<a href="lectures/value_function_methods_slides_v2 .pdf">Slides2</a>]
   </p>
 <p>
 蒙特卡洛方法 [<a href="lectures/monte_carlo_methods.pdf">Slides1</a>]  
   </p>
   <p>
 时分法 [<a href="lectures/td_methods_slides.pdf">Slides1</a>]  
+  </p>
+  <p>
+策略梯度法 [<a href="lectures/policy_gradient_slides.pdf">Slides1</a>]  
   </p>
   以上内容根据西湖大学赵世钰老师《强化学习的数学原理》内容编写
 
@@ -151,4 +154,16 @@ Bellman方程 [<a href="lectures/ch2_bellman_slides.pdf">Slides1</a>]  [<a href=
  </p>
  
 </div>
+
+
+<div class="course-block">
+  <h2> 期末复习  <h2> 
+   <p>
+考试范围  [<a href="lectures/复习.pdf">Slides1</a>] 
+  </p>
+ 
+</div>
+
+
+
 <!-- 你可以继续加 Lecture 4, 5 ... -->
